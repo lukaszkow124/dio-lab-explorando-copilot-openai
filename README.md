@@ -1,6 +1,12 @@
 # dio-lab-explorando-copilot-openai
  Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
+## Azure OpenAI
+
+Hoje em dia a plataforma para gestão do recurso do OpenAI é o Azure AI Foundry (https://ai.azure.com/)
+
+Azure OpenAI permite implementar as próprias soluções do copilot utilizado diversos modelos (cada um com caraterísticas diferentes - a escolha deve ser feita para responder ao necessidades), que a seguir podem ser utilizadas nas aplicações.
+Não esquecer os custos associados com utilização do serviço/modelos!
 
 ## Filtros de conteúdo
 
